@@ -236,7 +236,7 @@ function App() {
                                       <p className="text-[12px] md:text-[16px] text-gray-600">Add new contact</p>
                                     </div>
                                     <button  onClick={()=>setShow(true)} className="hover:bg-blue-700 text-[13px] md:text-[16px] bg-blue-600 w-[122px] h-[37px] md:w-[150px] md:h-[45px] text-white rounded-md flex items-center justify-center">
-                                      <IoAddSharp size={20} className="mr-2"/>
+                                      <LuUsers size={20} className="mr-2"/>
                                       <span>All Contact</span>
                                     </button>
                                 </div>
